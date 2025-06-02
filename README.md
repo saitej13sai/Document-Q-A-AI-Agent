@@ -1,5 +1,5 @@
 # Document-Q-A-AI-Agent
-# 📄 Document Q&A AI Agent (Gemini-Powered)
+# 📄 Document Q&A AI Agent 
 
 This is a lightweight AI assistant that allows users to query uploaded research papers using Google's Gemini LLM and search external references from arXiv.
 
